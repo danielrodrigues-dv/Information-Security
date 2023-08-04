@@ -1,30 +1,15 @@
-<h1 align="center">All information security projects</h1>			
+<h1 align="center">All information security projects</h1>
+<h5 aling="center">---- On this unified page, all the evolution of my study with information security will be recorded.</h2>
 <br>
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/moments-angular?style=flat-square&&color=%2304D361" />
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/moments-angular?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/moments-angular?style=flat-square" />
-	<a href="https://github.com/danielrodrigues-dv/moments-angular/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/danielrodrigues-dv/moments-angular?style=flat-square&" />
-	</a>
-  <a href="https://github.com/danielrodrigues-dv/moments-angular/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/angular-moments?style=flat-square&">
-  </a>
-  <a href="https://github.com/danielrodrigues-dv">
-    <img alt="Feito por danielrodrigues-dv" src="https://img.shields.io/badge/feito%20por-Daniel%20Rodrigues-%237519C1?style=flat-square&">
-  </a>
-</p>
 
-<h4 align="center">🚧 🚀 Concluído 🚀 🚧</h4>
 	
 
-Tabela de conteúdos
+Table of contents
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#%EF%B8%8F-funcionalidades)
-   * [Layout](#-layout)
-   * [Como executar o projeto](#-como-executar-o-projeto)
+   * [Como executar o projeto](#all-labs)
      * [Pré-requisitos](#pré-requisitos)
      * [Rodando a aplicação](#-Rodando-a-aplicação-Web)
    * [Tecnologias](#-tecnologias)
@@ -33,32 +18,6 @@ Tabela de conteúdos
 <!--te-->
 
 
-## 💻 Sobre o projeto
-
-💪 É uma plataforma web para lançamentos de produtos.
-
----
-
-## ⚙️ Funcionalidades
-
-- :white_check_mark: Exibir as informações contidas na aplicação. 
-
- 
----
-
-## 🎨 Layout
-
-O layout da aplicação está disponível no Netlify:
-
-<a href="https://danielrodrigues-dv-calculadora-react-dv.netlify.app/">
-  <img alt="Made by danielrodrigues-dv" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
-</a>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://raw.githubusercontent.com/danielrodrigues-dv/alon-musk/main/application/src/assets/imagens/banner-elon.png" />
-</p>
-
----
 
 ## 🚀 Como executar o projeto
 
