@@ -12,7 +12,7 @@ The study labs mentioned below are controlled environments that offer a platform
 
 | # | Description | Status | 
 | --- | :---: | :---: | 
-| 1 | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | :white_check_mark: |
+| 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a> | :white_check_mark: |
 | 2 | SQL injection vulnerability allowing login bypass | :white_check_mark: |
 | 3 | SQL injection attack, querying the database type and version on Oracle | :white_check_mark: |
 | 4 | SQL injection attack, querying the database type and version on MySQL and Microsoft | :white_check_mark: |
