@@ -13,12 +13,12 @@ The study labs mentioned below are controlled environments that offer a platform
 | # | Description | Status | 
 | --- | :---: | :---: | 
 | 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a> | :white_check_mark: |
-| 2 | SQL injection vulnerability allowing login bypass | :white_check_mark: |
-| 3 | SQL injection attack, querying the database type and version on Oracle | :white_check_mark: |
-| 4 | SQL injection attack, querying the database type and version on MySQL and Microsoft | :white_check_mark: |
-| 5 | SQL injection attack, listing the database contents on non-Oracle databases | :white_check_mark: |
-| 6 | SQL injection attack, listing the database contents on Oracle | :white_check_mark: |
-| 7 | SQL injection UNION attack, determining the number of columns returned by the query | :white_check_mark: |
+| 2 | <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass" target="_blank">SQL injection vulnerability allowing login bypass</a> | :white_check_mark: |
+| 3 | <a href="https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle" target="_blank">SQL injection attack, querying the database type and version on Oracle</a> | :white_check_mark: |
+| 4 | <a href="https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft" target="_blank">SQL injection attack, querying the database type and version on MySQL and Microsoft</a> | :white_check_mark: |
+| 5 | <a href="https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle" target="_blank">SQL injection attack, listing the database contents on non-Oracle databases</a> | :white_check_mark: |
+| 6 | <a href="https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle" target="_blank">SQL injection attack, listing the database contents on Oracle</a> | :white_check_mark: |
+| 7 | <a>SQL injection UNION attack, determining the number of columns returned by the query</a> | :white_check_mark: |
 | 8 | SQL injection UNION attack, finding a column containing text | :white_check_mark: |
 | 9 | SQL injection UNION attack, retrieving data from other tables | :white_check_mark: |
 | 10 | SQL injection UNION attack, retrieving multiple values in a single column | :white_check_mark: |
