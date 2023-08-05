@@ -21,7 +21,7 @@ The study labs mentioned below are controlled environments that offer a platform
 
 
 <details><summary>Portswigger</summary>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking](https://github.com/danielrodrigues-dv/Information-Security/blob/main/laboratories/SQL%20INJECTION/README.md" target="_blank">SQL INJECTION</a></li></ul></p>
+<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking](https://github.com/danielrodrigues-dv/Information-Security/blob/main/laboratories/SQL%20INJECTION" target="_blank">SQL INJECTION</a></li></ul></p>
 <p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">CROSS-SITE SCRIPTING</a></li></ul></p>
 <p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">CROSS-SITE REQUEST FORGERY (CSRF)</a></li></ul></p>
 <p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">CLICKJACKING</a></li></ul></p>
