@@ -1,17 +1,16 @@
 <h1 align="center">SQL INJECTION</h1>
-<h5 aling="center">---- On this unified page, all the evolution of my study with information security will be recorded.</h2>
 <br>
 
 	
 
 
 
-## Tab
+## TABLE OF CONTENTS
 
-The study labs mentioned below are controlled environments that offer a platform to apply and practice the various concepts related to information security. In these controlled spaces, it is possible to experience in a practical way the nuances of this field, ensuring an in-depth and effective understanding of security measures.
+The following table comprehensively covers all the content that has been learned on the topic of "SQL Injection":
 
 | # | Description | Status | 
-| --- | :---: | :---: | 
+| :---: | :---: | :---: | 
 | 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a> | :white_check_mark: |
 | 2 | <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass" target="_blank">SQL injection vulnerability allowing login bypass</a> | :white_check_mark: |
 | 3 | <a href="https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle" target="_blank">SQL injection attack, querying the database type and version on Oracle</a> | :white_check_mark: |
