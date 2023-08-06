@@ -11,7 +11,7 @@ The following table comprehensively covers all the content that has been learned
 
 | # | Description | Projeto | Status | 
 | :---: | :---: | :---: | :---: | 
-| 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a> | Visualizar | :white_check_mark: |
+| 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a> | <a href="https://github.com/danielrodrigues-dv/Information-Security/blob/main/laboratories/DOC/01%20-%20SQL%20INJECTION.pdf">Visualizar</a> | :white_check_mark: |
 | 2 | <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass" target="_blank">SQL injection vulnerability allowing login bypass</a> | Visualizar | :white_check_mark: |
 | 3 | <a href="https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle" target="_blank">SQL injection attack, querying the database type and version on Oracle</a> | Visualizar | :white_check_mark: |
 | 4 | <a href="https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft" target="_blank">SQL injection attack, querying the database type and version on MySQL and Microsoft</a> | Visualizar | :white_check_mark: |
