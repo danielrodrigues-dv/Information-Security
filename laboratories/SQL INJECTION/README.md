@@ -5,11 +5,11 @@
 
 
 
-## TABLE OF CONTENTS
+## Tabela de conteúdos
 
-The following table comprehensively covers all the content that has been learned on the topic of "SQL Injection":
+A tabela a seguir cobre de forma abrangente todo o conteúdo que foi aprendido sobre o tópico "SQL Injection":
 
-| # | Description | Projeto | Status | 
+| # | Descrição | Projeto | Status | 
 | :---: | :---: | :---: | :---: | 
 | 1 | <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data" target="_blank">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a> | <a href="https://github.com/danielrodrigues-dv/Information-Security/blob/main/laboratories/DOC/01%20-%20SQL%20INJECTION.pdf">Visualizar</a> | :white_check_mark: |
 | 2 | <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass" target="_blank">SQL injection vulnerability allowing login bypass</a> | Visualizar | :white_check_mark: |
