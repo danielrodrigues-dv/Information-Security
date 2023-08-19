@@ -1,10 +1,10 @@
-<h1 align="center">All information security projects</h1>
-<h5 aling="center">---- On this unified page, all the evolution of my study with information security will be recorded.</h2>
+<h1 align="center">Todos os projetos de segurança da informação</h1>
+<h5 aling="center">---- Nesta página unificada, será registrada toda a evolução do meu estudo com segurança da informação.</h2>
 <br>
 
 	
 
-Table of contents
+Conteúdo
 =================
 <!--ts-->
    * [Laboratories](#-laboratories)
@@ -15,9 +15,9 @@ Table of contents
 
 
 
-## Laboratories
+## Laboratórios
 
-The study labs mentioned below are controlled environments that offer a platform to apply and practice the various concepts related to information security. In these controlled spaces, it is possible to experience in a practical way the nuances of this field, ensuring an in-depth and effective understanding of security measures.
+Os laboratórios de estudo mencionados a seguir são ambientes controlados que oferecem uma plataforma para aplicar e praticar os diversos conceitos relacionados à segurança da informação. Nesses espaços controlados, é possível vivenciar de forma prática as nuances desse campo, garantindo um entendimento aprofundado e efetivo das medidas de segurança.
 
 
 <details><summary>Portswigger</summary>
